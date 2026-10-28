@@ -3,3 +3,5 @@
 ## Informacion del proyecto
 
 Esta documentación se ha elaborado utilizando Markdown
+
+## Proximas mejoras
